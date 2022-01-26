@@ -10,4 +10,9 @@ As an adult, I took a different direction. In 2015 I graduated from the Universi
 
 Over the last two years, I have dedicated thousands of hours to developing new skills and getting to know new programming languages through internet courses. I found that it was very easy to dive into this subject and have pure enjoyment out of creating a piece of code that actually works as I designed it in my mind. This job gives a lot of challenges as well where I can exercise problem-solving skills. 
 
-It would be my dream to find a job as a junior developer and to get an opportunity to work in a team of like-minded people where I can show my skills, positive attitude and determination to grow
+It would be my dream to find a job as a junior developer and to get an opportunity to work in a team of like-minded people where I can show my skills, positive attitude and determination to grow.
+
+
+In the last 2 years I have completed a several curses wich list I am provaiding below:
+
+1. [JavaStart course](https://javastart.pl/kurs/java) - Full description and all work dokumentation [here](/tskoczylas/JavaStart_Course)
