@@ -1,7 +1,7 @@
-#Welcome !!
 
 
-My name is Tomasz Skoczylas and I am a self-thought developer.
+My name is **Tomasz Skoczylas** and I am a self-thought developer.
+
 Back in 2018, I have decided to completely change my career so I could do something that I always enjoyed, which are technology and computer science.
 At primary school, as a young pupil, I was always happy to get involved in helping out my computer science teacher. My interest was going beyond subjects that were thought during classes and I have even taken part in additional lectures, which showed me for the very first time how to code in Java. I remember even the time when I was left alone with new computers and made responsible to instal the new operating system - which at that moment was a very responsible job for barely a teenage boy.
 
