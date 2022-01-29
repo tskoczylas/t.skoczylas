@@ -11,7 +11,7 @@ Over the last two years, I have dedicated thousands of hours to developing new s
 
 It would be my dream to find a job as a junior developer and to get an opportunity to work in a team of like-minded people where I can show my skills, positive attitude and determination to grow.
 
-hi
+
 # In the last 2 years I have completed several curses which list I am providing below:
 
 1. [JavaStart course](https://javastart.pl/kurs/java) - Full description and all work documentation [here](https://github.com/tskoczylas/JavaStart_Course)
