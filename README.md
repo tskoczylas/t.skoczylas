@@ -16,5 +16,9 @@ It would be my dream to find a job as a junior developer and to get an opportuni
 
 1. [JavaStart course](https://javastart.pl/kurs/java) - Full description and all work documentation [here](https://github.com/tskoczylas/JavaStart_Course)
 2. [MySql - Ultimate course from beginer to expert](https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/)
-3. [Spring - hibernate  ](https://www.udemy.com/course/spring-hibernate-tutorial/)
+3. [Spring - Hibernate  ](https://www.udemy.com/course/spring-hibernate-tutorial/)
 4. Testting - full description and work documentation [here](https://github.com/tskoczylas/Testing) 
+
+# Major projects:
+
+1. [JustSecretSanta.com project ](https://github.com/tskoczylas/secret_santa)
